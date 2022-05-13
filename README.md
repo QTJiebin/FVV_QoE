@@ -9,7 +9,7 @@ Guoyou Liu from the MOKU Laboratory, Alibaba Group for suggestions about databas
 
 ## Citation
 ```bibtex
-@article{yan2021exposing,
+@article{yan2022subjective,
 title={Subjective and objective quality of experience of free viewpoint videos},
 author={Yan, Jiebin and Fang, Yuming and Li, Jiang and Che, Zhaohui and Xia, Xue and Liu, Yang},
 journal={IEEE Transactions on Image Processing},
