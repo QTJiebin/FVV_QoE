@@ -14,7 +14,7 @@ We will release the download link for the proposed FVV QoE database.
 ```bibtex
 @article{yan2022subjective,
 title={Subjective and objective quality of experience of free viewpoint videos},
-author={Yan, Jiebin and Fang, Yuming and Li, Jiang and Che, Zhaohui and Xia, Xue and Liu, Yang},
+author={Yan, Jiebin and Fang, Yuming and Li, Jing and Che, Zhaohui and Xia, Xue and Liu, Yang},
 journal={IEEE Transactions on Image Processing},
 volume={},
 number={},
