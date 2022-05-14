@@ -8,6 +8,7 @@ We will release the download link for the proposed FVV QoE database.
 
 ## Thanks
 [Guoyou Liu](https://github.com/liuguoyou) from the MOKU Laboratory, Alibaba Group for suggestions about database construction, and Liping Huang from the School of Information Management, Jiangxi University of Finance and Economics for fruitful discussions about the Figures. 
+[Dingquan Li] from the Peking University for sharing the codes.
 
 ## Citation
 ```bibtex
