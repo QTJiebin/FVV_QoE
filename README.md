@@ -7,7 +7,7 @@ This repository is for the paper "Subjective and Objective Quality of Experience
 We will release the download link for the proposed FVV QoE database. 
 
 ## Acknowledgement
-[Guoyou Liu](https://github.com/liuguoyou) from the MOKU Laboratory, Alibaba Group for suggestions about database construction, and Liping Huang from the School of Information Management, Jiangxi University of Finance and Economics for fruitful discussions about the Figures,
+[Guoyou Liu](https://github.com/liuguoyou) from the MOKU Laboratory, Alibaba Group for suggestions about database construction, and Liping Huang from the School of Information Technology, Jiangxi University of Finance and Economics for fruitful discussions about the Figures,
 [Dingquan Li](https://lidq92.github.io/) from the Peking University for kindly sharing the [codes](https://github.com/lidq92/VSFA).
 
 ## Citation
