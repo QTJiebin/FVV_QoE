@@ -1,6 +1,6 @@
 # Subjective and Objective Quality of Experience of Free Viewpoint Videos
 
-This repository is for the paper "Subjective and Objective Quality of Experience of Free Viewpoint Videos",
+This repository is for the paper ["Subjective and Objective Quality of Experience of Free Viewpoint Videos"](https://ieeexplore.ieee.org/document/9784402),
 [Jiebin Yan](https://github.com/QTJiebin), [Jing Li](https://sites.google.com/site/jingliepwang/home), [Yuming Fang](http://sim.jxufe.cn/JDMKL/ymfang.html), [Zhaohui Che](https://github.com/CZHQuality), [Xue Xia](https://ieeexplore.ieee.org/author/37086158079), Yang Liu, *IEEE Transactions on Image Processing*, 2022. 
 
 ## Database
