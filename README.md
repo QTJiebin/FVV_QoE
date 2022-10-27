@@ -24,8 +24,8 @@ The proposed FVV QoE database is available at this [download link](https://docs.
 title={Subjective and objective quality of experience of free viewpoint videos},
 author={Yan, Jiebin and Li, Jing and Fang, Yuming and Che, Zhaohui and Xia, Xue and Liu, Yang},
 journal={IEEE Transactions on Image Processing},
-volume={},
+volume={31},
 number={},
-pages={},
+pages={3896-3907},
 year={2022}
 }
